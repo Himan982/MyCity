@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { View, Text } from 'react-native'
 import React from 'react'
 import BottomNavigation from '../bottom/BottomNavigation'
 
@@ -10,6 +10,4 @@ const Main = () => {
   )
 }
 
-export default Main
-
-const styles = StyleSheet.create({})
+export default Main;
